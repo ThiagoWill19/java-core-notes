@@ -76,7 +76,7 @@ Each article has its own folder with language-specific README files:
 
 - **Hiding, Shadowing, and Obscuring in Java**  
   [EN](java-core/scope-and-name-resolution/shadowing-hiding-and-obscuring/README.en.md) - 
-  [PT-BR](j -core/scope-and-name-resolution/shadowing-hiding-and-obscuring/README.pt-br.md)
+  [PT-BR](java-core/scope-and-name-resolution/shadowing-hiding-and-obscuring/README.pt-br.md)
 
 
 ## 🤝 Feedback and contributions
